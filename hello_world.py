@@ -12,7 +12,7 @@ def index():
     return "Hello, world!"
 @app.route('/home')
 def home():
-    return 'Welcome to an amazing Flask app!'
+    return 'Welcome to an amazing Flask App!'
 
 @app.route('/myprofile')
 def myprofile():
