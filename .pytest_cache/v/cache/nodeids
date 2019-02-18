@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
   "test/index_test.py::HelloWorldTestCase::test_exit_data",
   "test/index_test.py::HelloWorldTestCase::test_exit_status_code",
@@ -8,3 +9,6 @@
   "test/index_test.py::HelloWorldTestCase::test_myprofile_data",
   "test/index_test.py::HelloWorldTestCase::test_myprofile_status_code"
 ]
+=======
+[]
+>>>>>>> a1d8ae271cd5a77a501bc585d9f6074ea9e369d2

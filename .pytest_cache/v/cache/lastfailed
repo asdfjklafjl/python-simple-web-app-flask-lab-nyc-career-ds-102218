@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 {}
+=======
+{
+  "test/index_test.py": true
+}
+>>>>>>> a1d8ae271cd5a77a501bc585d9f6074ea9e369d2
